@@ -1,0 +1,77 @@
+[
+    {
+        "scale_code_dec": 0,
+        "scale_code_hex": "00",
+        "scale": 1.0
+    },
+    {
+        "scale_code_dec": 1,
+        "scale_code_hex": "01",
+        "scale": 10.0
+    },
+    {
+        "scale_code_dec": 2,
+        "scale_code_hex": "02",
+        "scale": 100.0
+    },
+    {
+        "scale_code_dec": 3,
+        "scale_code_hex": "03",
+        "scale": 1000.0
+    },
+    {
+        "scale_code_dec": 4,
+        "scale_code_hex": "04",
+        "scale": 0.1
+    },
+    {
+        "scale_code_dec": 5,
+        "scale_code_hex": "05",
+        "scale": 0.01
+    },
+    {
+        "scale_code_dec": 6,
+        "scale_code_hex": "06",
+        "scale": 0.001
+    },
+    {
+        "scale_code_dec": 128,
+        "scale_code_hex": "80",
+        "scale": -1.0
+    },
+    {
+        "scale_code_dec": 129,
+        "scale_code_hex": "81",
+        "scale": -10.0
+    },
+    {
+        "scale_code_dec": 130,
+        "scale_code_hex": "82",
+        "scale": -100.0
+    },
+    {
+        "scale_code_dec": 131,
+        "scale_code_hex": "83",
+        "scale": -1000.0
+    },
+    {
+        "scale_code_dec": 132,
+        "scale_code_hex": "84",
+        "scale": -0.1
+    },
+    {
+        "scale_code_dec": 133,
+        "scale_code_hex": "85",
+        "scale": -0.01
+    },
+    {
+        "scale_code_dec": 134,
+        "scale_code_hex": "86",
+        "scale": -0.001
+    },
+    {
+        "scale_code_dec": 255,
+        "scale_code_hex": "FF",
+        "scale": NaN
+    }
+]

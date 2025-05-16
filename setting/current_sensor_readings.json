@@ -1,0 +1,62 @@
+[
+    {
+        "sheet_name": "温湿度センサ",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "熱電対センサ(2ch防水)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "3本サーミスタ(3ch非防水)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "加速度版振動センサ",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "4-20mAアナログ無線化ユニット(1ch非防水)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "電流センサ(2ch非防水)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "0-5Vアナログ無線化ユニット(1ch非防水)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "4-20mAアナログ無線化ユニット(3ch防水)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "0-5Vアナログ無線化ユニット(3ch防水)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "接点パルス(3ch防水)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "漏水センサ",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "振動センサType2TF-001(速度モード)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "振動センサType2TF-001(低速回転モード)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "振動センサType2TF-001(加速度モード)",
+        "dataframe": null
+    },
+    {
+        "sheet_name": "防水中継器",
+        "dataframe": null
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "sens_code_dec": 9.0,
+        "sens_code_hex": 9.0,
+        "sens_type": "振動(加速度版）",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "周波数1_[Hz]",
+        "sens_data_type_2": "加速度1_[m/s2]",
+        "sens_data_type_3": "周波数2_[Hz]",
+        "sens_data_type_4": "加速度2_[m/s2]",
+        "sens_data_type_5": "周波数3_[Hz]",
+        "sens_data_type_6": "加速度3_[m/s2]",
+        "sens_data_type_7": "周波数4_[Hz]",
+        "sens_data_type_8": "加速度4_[m/s2]",
+        "sens_data_type_9": "周波数5_[Hz]",
+        "sens_data_type_10": "加速度5_[m/s2]",
+        "sens_data_type_11": "加速度RMS_[m/s2]",
+        "sens_data_type_12": "尖り度_[-]",
+        "sens_data_type_13": "温度_[℃]"
+    },
+    {
+        "sens_code_dec": 24.0,
+        "sens_code_hex": 18.0,
+        "sens_type": "振動(速度版）",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "周波数1_[Hz]",
+        "sens_data_type_2": "加速度1_[m/s2]",
+        "sens_data_type_3": "周波数2_[Hz]",
+        "sens_data_type_4": "加速度2_[m/s2]",
+        "sens_data_type_5": "加速度RMS_[m/s2]",
+        "sens_data_type_6": "周波数1_[Hz]",
+        "sens_data_type_7": "速度1_[mm/s]",
+        "sens_data_type_8": "周波数2_[Hz]",
+        "sens_data_type_9": "速度2_[mm/s]",
+        "sens_data_type_10": "周波数3_[Hz]",
+        "sens_data_type_11": "速度_[mm/s]",
+        "sens_data_type_12": "速度RMS_[mm/s]",
+        "sens_data_type_13": "尖り度_[-]",
+        "sens_data_type_14": "温度_[℃]"
+    },
+    {
+        "sens_code_dec": 18.0,
+        "sens_code_hex": 12.0,
+        "sens_type": "CTセンサ(2ch/非防水)",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "パケット番号_[times]",
+        "sens_data_type_2": "電流値1_[A]",
+        "sens_data_type_3": "電流値2_[A]",
+        "sens_data_type_4": "借電状態_[-]",
+        "sens_data_type_5": "前回電流値1_[A]",
+        "sens_data_type_6": "前回電流値2_[A]",
+        "sens_data_type_7": "前回借電状態_[-]"
+    },
+    {
+        "sens_code_dec": 1.0,
+        "sens_code_hex": 1.0,
+        "sens_type": "温湿度",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "温度_[℃]",
+        "sens_data_type_2": "湿度_[%RH]"
+    },
+    {
+        "sens_code_dec": 7.0,
+        "sens_code_hex": 7.0,
+        "sens_type": "熱電対",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "温度1_[℃]",
+        "sens_data_type_2": "温度2_[℃]"
+    },
+    {
+        "sens_code_dec": 16.0,
+        "sens_code_hex": 10.0,
+        "sens_type": "4-20mAアナログ無線化ユニット(1ch/非防水)",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "パケット番号_[times]",
+        "sens_data_type_2": "電流値_[mA]",
+        "sens_data_type_3": "最新積算パルス_[times]",
+        "sens_data_type_4": "前回電流値_[mA]",
+        "sens_data_type_5": "前回積算パルス_[times]"
+    },
+    {
+        "sens_code_dec": 19.0,
+        "sens_code_hex": 13.0,
+        "sens_type": "0-5Vアナログ無線化ユニット(1ch/非防水)",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "パケット番号番号_[times]",
+        "sens_data_type_2": "電圧値_[V]",
+        "sens_data_type_3": "最新積算パルス_[times]",
+        "sens_data_type_4": "前回電圧値_[V]",
+        "sens_data_type_5": "前回積算パルス_[times]"
+    },
+    {
+        "sens_code_dec": NaN,
+        "sens_code_hex": NaN,
+        "sens_type": "3本サーミスタ(3ch/非防水)",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "温度1_[℃]",
+        "sens_data_type_2": "温度2_[℃]",
+        "sens_data_type_3": "温度3_[℃]"
+    },
+    {
+        "sens_code_dec": NaN,
+        "sens_code_hex": NaN,
+        "sens_type": "接点(1ch/非防水)",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "パケット番号_[times]",
+        "sens_data_type_2": "最新接点状態_[-]",
+        "sens_data_type_3": "最新積算パルス_[times]",
+        "sens_data_type_4": "前回接点状態_[-]",
+        "sens_data_type_5": "前回積算パルス_[times]"
+    },
+    {
+        "sens_code_dec": NaN,
+        "sens_code_hex": NaN,
+        "sens_type": "4-20mAアナログ無線化ユニット(3ch/防水)",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "電流1_[mA]",
+        "sens_data_type_2": "電流2_[mA]",
+        "sens_data_type_3": "電流3_[mA]"
+    },
+    {
+        "sens_code_dec": NaN,
+        "sens_code_hex": NaN,
+        "sens_type": "0-5Vアナログ無線化ユニット(3ch/防水)",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "電圧1_[V]",
+        "sens_data_type_2": "電圧2_[V]",
+        "sens_data_type_3": "電圧3_[V]"
+    },
+    {
+        "sens_code_dec": NaN,
+        "sens_code_hex": NaN,
+        "sens_type": "接点/パルス(3ch/防水)",
+        "sens_V": "電源電圧[V]",
+        "sens_data_type_1": "検出エッジ1_[-]",
+        "sens_data_type_2": "エッジカウント1_[times]",
+        "sens_data_type_3": "検出エッジ2_[-]",
+        "sens_data_type_4": "エッジカウント2_[times]",
+        "sens_data_type_5": "検出エッジ2_[-]",
+        "sens_data_type_6": "エッジカウント3_[times]"
+    }
+]

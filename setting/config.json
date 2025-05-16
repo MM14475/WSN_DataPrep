@@ -1,0 +1,8 @@
+﻿{"LOGGING_DATA_PATH": "C:\\Users\\MM14475.CO\\Desktop\\A\\LoggingLog",
+"OUTPUT_FOLDER_PATH": "C:\\Users\\MM14475.CO\\Desktop\\A\\ProcessedData",
+"SCALE_JSON_PATH": "\\\\m5fsv01\\KMM共有領域\\KA5300\\J_環境管理\\80_施設MDASプロジェクト\\KA1018_nomi\\A\\可視化\\MDAS_WSN_DataPrep\\setting\\wsn_scale.json",
+"SENS_TYPE_JSON_PATH": "\\\\m5fsv01\\KMM共有領域\\KA5300\\J_環境管理\\80_施設MDASプロジェクト\\KA1018_nomi\\A\\可視化\\MDAS_WSN_DataPrep\\setting\\sens_type.json",
+"MANAGEMENT_LEDGER_PATH": "\\\\m5fsv01\\KMM共有領域\\KA5300\\J_環境管理\\80_施設MDASプロジェクト\\KA1018_nomi\\A\\可視化\\MDAS_WSN_Visualizer\\setting\\無線センサ管理台帳.xlsx",
+"MANAGEMENT_LEDGER_SHEET_NAME": "Sheet1",
+"CURRENT_SENSOR_READINGS_JSON": "\\\\m5fsv01\\KMM共有領域\\KA5300\\J_環境管理\\80_施設MDASプロジェクト\\KA1018_nomi\\A\\可視化\\MDAS_WSN_DataPrep\\setting\\current_sensor_readings.json",
+"CURRENT_DATA_EXCEL_FILE_PATH": "\\\\Box\\030_Int_FacilityJob_MMC_MMA1P0\\300_技術_A1P21\\309_先進的施設管理\\MDAS\\開発中_MDAS_WSN_DataPrep_ver2.3\\test output\\current_sensor_data.xlsx"}

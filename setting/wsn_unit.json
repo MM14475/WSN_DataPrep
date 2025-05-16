@@ -1,0 +1,716 @@
+[
+    {
+        "unit_code_dec": 0,
+        "unit_code_hex": "0",
+        "unit_name": "使用しない",
+        "unit": NaN
+    },
+    {
+        "unit_code_dec": 1,
+        "unit_code_hex": "1",
+        "unit_name": "Duty比",
+        "unit": "%"
+    },
+    {
+        "unit_code_dec": 2,
+        "unit_code_hex": "2",
+        "unit_name": "圧力",
+        "unit": "Pa"
+    },
+    {
+        "unit_code_dec": 3,
+        "unit_code_hex": "3",
+        "unit_name": "位置_緯度",
+        "unit": NaN
+    },
+    {
+        "unit_code_dec": 4,
+        "unit_code_hex": "4",
+        "unit_name": "位置_経度",
+        "unit": NaN
+    },
+    {
+        "unit_code_dec": 5,
+        "unit_code_hex": "5",
+        "unit_name": "インダクタンス",
+        "unit": "H"
+    },
+    {
+        "unit_code_dec": 6,
+        "unit_code_hex": "6",
+        "unit_name": "エネルギー",
+        "unit": "J"
+    },
+    {
+        "unit_code_dec": 7,
+        "unit_code_hex": "7",
+        "unit_name": "カウント",
+        "unit": "Time"
+    },
+    {
+        "unit_code_dec": 8,
+        "unit_code_hex": "8",
+        "unit_name": "角加速度",
+        "unit": "rad/s2"
+    },
+    {
+        "unit_code_dec": 9,
+        "unit_code_hex": "9",
+        "unit_name": "拡散率",
+        "unit": "m2/s"
+    },
+    {
+        "unit_code_dec": 10,
+        "unit_code_hex": "0A",
+        "unit_name": "角速度",
+        "unit": "rad/s"
+    },
+    {
+        "unit_code_dec": 11,
+        "unit_code_hex": "0B",
+        "unit_name": "角度",
+        "unit": "°"
+    },
+    {
+        "unit_code_dec": 12,
+        "unit_code_hex": "0C",
+        "unit_name": "加速度",
+        "unit": "m/s2"
+    },
+    {
+        "unit_code_dec": 13,
+        "unit_code_hex": "0D",
+        "unit_name": "輝度",
+        "unit": "cd/m2"
+    },
+    {
+        "unit_code_dec": 14,
+        "unit_code_hex": "0E",
+        "unit_name": "吸収線量",
+        "unit": "Gy"
+    },
+    {
+        "unit_code_dec": 15,
+        "unit_code_hex": "0F",
+        "unit_name": "吸収線量率",
+        "unit": "Gy/s"
+    },
+    {
+        "unit_code_dec": 16,
+        "unit_code_hex": "10",
+        "unit_name": "屈折率",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 17,
+        "unit_code_hex": "11",
+        "unit_name": "酵素活性",
+        "unit": "kat"
+    },
+    {
+        "unit_code_dec": 18,
+        "unit_code_hex": "12",
+        "unit_name": "酵素活性濃度",
+        "unit": "kat/m3"
+    },
+    {
+        "unit_code_dec": 19,
+        "unit_code_hex": "13",
+        "unit_name": "光束",
+        "unit": "lm"
+    },
+    {
+        "unit_code_dec": 20,
+        "unit_code_hex": "14",
+        "unit_name": "光量",
+        "unit": "cd"
+    },
+    {
+        "unit_code_dec": 21,
+        "unit_code_hex": "15",
+        "unit_name": "コンダクタンス",
+        "unit": "S"
+    },
+    {
+        "unit_code_dec": 22,
+        "unit_code_hex": "16",
+        "unit_name": "サイズ",
+        "unit": "Byte"
+    },
+    {
+        "unit_code_dec": 23,
+        "unit_code_hex": "17",
+        "unit_name": "磁界",
+        "unit": "A/m"
+    },
+    {
+        "unit_code_dec": 24,
+        "unit_code_hex": "18",
+        "unit_name": "時間",
+        "unit": "sec"
+    },
+    {
+        "unit_code_dec": 25,
+        "unit_code_hex": "19",
+        "unit_name": "時刻",
+        "unit": "Hour"
+    },
+    {
+        "unit_code_dec": 26,
+        "unit_code_hex": "1A",
+        "unit_name": "時刻",
+        "unit": "minute"
+    },
+    {
+        "unit_code_dec": 27,
+        "unit_code_hex": "1B",
+        "unit_name": "時刻",
+        "unit": "second"
+    },
+    {
+        "unit_code_dec": 28,
+        "unit_code_hex": "1C",
+        "unit_name": "時刻",
+        "unit": "millsecond"
+    },
+    {
+        "unit_code_dec": 29,
+        "unit_code_hex": "1D",
+        "unit_name": "仕事率",
+        "unit": "W"
+    },
+    {
+        "unit_code_dec": 30,
+        "unit_code_hex": "1E",
+        "unit_name": "磁束",
+        "unit": "Wb"
+    },
+    {
+        "unit_code_dec": 31,
+        "unit_code_hex": "1F",
+        "unit_name": "磁束密度",
+        "unit": "T"
+    },
+    {
+        "unit_code_dec": 32,
+        "unit_code_hex": "20",
+        "unit_name": "質量",
+        "unit": "kg"
+    },
+    {
+        "unit_code_dec": 33,
+        "unit_code_hex": "21",
+        "unit_name": "質量吸収係数",
+        "unit": "m2/kg"
+    },
+    {
+        "unit_code_dec": 34,
+        "unit_code_hex": "22",
+        "unit_name": "質量濃度",
+        "unit": "kg/m3"
+    },
+    {
+        "unit_code_dec": 35,
+        "unit_code_hex": "23",
+        "unit_name": "質量モル濃度",
+        "unit": "mol/kg"
+    },
+    {
+        "unit_code_dec": 36,
+        "unit_code_hex": "24",
+        "unit_name": "質量流量",
+        "unit": "kg/s"
+    },
+    {
+        "unit_code_dec": 37,
+        "unit_code_hex": "25",
+        "unit_name": "質量流量密度",
+        "unit": "kg/m2・s"
+    },
+    {
+        "unit_code_dec": 38,
+        "unit_code_hex": "26",
+        "unit_name": "周波数",
+        "unit": "Hz"
+    },
+    {
+        "unit_code_dec": 39,
+        "unit_code_hex": "27",
+        "unit_name": "照射線量",
+        "unit": "C/kg"
+    },
+    {
+        "unit_code_dec": 40,
+        "unit_code_hex": "28",
+        "unit_name": "照度",
+        "unit": "lx"
+    },
+    {
+        "unit_code_dec": 41,
+        "unit_code_hex": "29",
+        "unit_name": "数値",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 42,
+        "unit_code_hex": "2A",
+        "unit_name": "セルシウス温度",
+        "unit": "℃"
+    },
+    {
+        "unit_code_dec": 43,
+        "unit_code_hex": "2B",
+        "unit_name": "線量当量",
+        "unit": "Sv"
+    },
+    {
+        "unit_code_dec": 44,
+        "unit_code_hex": "2C",
+        "unit_name": "相対湿度",
+        "unit": "%RH"
+    },
+    {
+        "unit_code_dec": 45,
+        "unit_code_hex": "2D",
+        "unit_name": "体積",
+        "unit": "m3"
+    },
+    {
+        "unit_code_dec": 46,
+        "unit_code_hex": "2E",
+        "unit_name": "体積エネルギー",
+        "unit": "J/m3"
+    },
+    {
+        "unit_code_dec": 47,
+        "unit_code_hex": "2F",
+        "unit_name": "体積流量",
+        "unit": "m3/s"
+    },
+    {
+        "unit_code_dec": 48,
+        "unit_code_hex": "30",
+        "unit_name": "力",
+        "unit": "N"
+    },
+    {
+        "unit_code_dec": 49,
+        "unit_code_hex": "31",
+        "unit_name": "力のモーメント",
+        "unit": "N・m"
+    },
+    {
+        "unit_code_dec": 50,
+        "unit_code_hex": "32",
+        "unit_name": "電位差（電圧）",
+        "unit": "V"
+    },
+    {
+        "unit_code_dec": 51,
+        "unit_code_hex": "33",
+        "unit_name": "電荷",
+        "unit": "C"
+    },
+    {
+        "unit_code_dec": 52,
+        "unit_code_hex": "34",
+        "unit_name": "電界の強さ",
+        "unit": "V/m"
+    },
+    {
+        "unit_code_dec": 53,
+        "unit_code_hex": "35",
+        "unit_name": "電荷密度",
+        "unit": "C/m3"
+    },
+    {
+        "unit_code_dec": 54,
+        "unit_code_hex": "36",
+        "unit_name": "電気抵抗",
+        "unit": "ohm"
+    },
+    {
+        "unit_code_dec": 55,
+        "unit_code_hex": "37",
+        "unit_name": "電気容量",
+        "unit": "F"
+    },
+    {
+        "unit_code_dec": 56,
+        "unit_code_hex": "38",
+        "unit_name": "電束密度",
+        "unit": "C/m2"
+    },
+    {
+        "unit_code_dec": 57,
+        "unit_code_hex": "39",
+        "unit_name": "電流",
+        "unit": "A"
+    },
+    {
+        "unit_code_dec": 58,
+        "unit_code_hex": "3A",
+        "unit_name": "電流密度",
+        "unit": "A/m2"
+    },
+    {
+        "unit_code_dec": 59,
+        "unit_code_hex": "3B",
+        "unit_name": "電力量",
+        "unit": "kWh"
+    },
+    {
+        "unit_code_dec": 60,
+        "unit_code_hex": "3C",
+        "unit_name": "透磁率",
+        "unit": "H/m"
+    },
+    {
+        "unit_code_dec": 61,
+        "unit_code_hex": "3D",
+        "unit_name": "導電率",
+        "unit": "S/m"
+    },
+    {
+        "unit_code_dec": 62,
+        "unit_code_hex": "3E",
+        "unit_name": "動粘度",
+        "unit": "m2/s"
+    },
+    {
+        "unit_code_dec": 63,
+        "unit_code_hex": "3F",
+        "unit_name": "長さ",
+        "unit": "m"
+    },
+    {
+        "unit_code_dec": 64,
+        "unit_code_hex": "40",
+        "unit_name": "日射量",
+        "unit": "kW/m2"
+    },
+    {
+        "unit_code_dec": 65,
+        "unit_code_hex": "41",
+        "unit_name": "熱伝導率",
+        "unit": "W/(m・K)"
+    },
+    {
+        "unit_code_dec": 66,
+        "unit_code_hex": "42",
+        "unit_name": "熱容量",
+        "unit": "J/K"
+    },
+    {
+        "unit_code_dec": 67,
+        "unit_code_hex": "43",
+        "unit_name": "熱力学温度",
+        "unit": "K"
+    },
+    {
+        "unit_code_dec": 68,
+        "unit_code_hex": "44",
+        "unit_name": "熱流密度",
+        "unit": "W/m2"
+    },
+    {
+        "unit_code_dec": 69,
+        "unit_code_hex": "45",
+        "unit_name": "粘度",
+        "unit": "Pa・s"
+    },
+    {
+        "unit_code_dec": 70,
+        "unit_code_hex": "46",
+        "unit_name": "濃度",
+        "unit": "ppm"
+    },
+    {
+        "unit_code_dec": 71,
+        "unit_code_hex": "47",
+        "unit_name": "波数",
+        "unit": "m-1"
+    },
+    {
+        "unit_code_dec": 72,
+        "unit_code_hex": "48",
+        "unit_name": "速さ",
+        "unit": "m/s"
+    },
+    {
+        "unit_code_dec": 73,
+        "unit_code_hex": "49",
+        "unit_name": "比エネルギー",
+        "unit": "J/kg"
+    },
+    {
+        "unit_code_dec": 74,
+        "unit_code_hex": "4A",
+        "unit_name": "比透磁率",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 75,
+        "unit_code_hex": "4B",
+        "unit_name": "比熱容量",
+        "unit": "J/(kg・K)"
+    },
+    {
+        "unit_code_dec": 76,
+        "unit_code_hex": "4C",
+        "unit_name": "比容積",
+        "unit": "m3/kg"
+    },
+    {
+        "unit_code_dec": 77,
+        "unit_code_hex": "4D",
+        "unit_name": "表面張力",
+        "unit": "N/m"
+    },
+    {
+        "unit_code_dec": 78,
+        "unit_code_hex": "4E",
+        "unit_name": "表面電荷",
+        "unit": "C/m2"
+    },
+    {
+        "unit_code_dec": 79,
+        "unit_code_hex": "4F",
+        "unit_name": "物質量",
+        "unit": "mol"
+    },
+    {
+        "unit_code_dec": 80,
+        "unit_code_hex": "50",
+        "unit_name": "平面角",
+        "unit": "rad"
+    },
+    {
+        "unit_code_dec": 81,
+        "unit_code_hex": "51",
+        "unit_name": "放射輝度",
+        "unit": "W/(m2・sr）"
+    },
+    {
+        "unit_code_dec": 82,
+        "unit_code_hex": "52",
+        "unit_name": "放射強度",
+        "unit": "W/sr"
+    },
+    {
+        "unit_code_dec": 83,
+        "unit_code_hex": "53",
+        "unit_name": "放射能",
+        "unit": "Bq"
+    },
+    {
+        "unit_code_dec": 84,
+        "unit_code_hex": "54",
+        "unit_name": "密度",
+        "unit": "kg/m3"
+    },
+    {
+        "unit_code_dec": 85,
+        "unit_code_hex": "55",
+        "unit_name": "面積",
+        "unit": "m2"
+    },
+    {
+        "unit_code_dec": 86,
+        "unit_code_hex": "56",
+        "unit_name": "面密度",
+        "unit": "kg/m2"
+    },
+    {
+        "unit_code_dec": 87,
+        "unit_code_hex": "57",
+        "unit_name": "モルエネルギー",
+        "unit": "J/mol"
+    },
+    {
+        "unit_code_dec": 88,
+        "unit_code_hex": "58",
+        "unit_name": "モルエントロビー",
+        "unit": "J/(mol・K)"
+    },
+    {
+        "unit_code_dec": 89,
+        "unit_code_hex": "59",
+        "unit_name": "モル体積",
+        "unit": "m3/mol"
+    },
+    {
+        "unit_code_dec": 90,
+        "unit_code_hex": "5A",
+        "unit_name": "モル導電率",
+        "unit": "S・m2/mol"
+    },
+    {
+        "unit_code_dec": 91,
+        "unit_code_hex": "5B",
+        "unit_name": "誘電率",
+        "unit": "F/m"
+    },
+    {
+        "unit_code_dec": 92,
+        "unit_code_hex": "5C",
+        "unit_name": "力積",
+        "unit": "N・s"
+    },
+    {
+        "unit_code_dec": 93,
+        "unit_code_hex": "5D",
+        "unit_name": "立体角",
+        "unit": "sr"
+    },
+    {
+        "unit_code_dec": 94,
+        "unit_code_hex": "5E",
+        "unit_name": "量濃度",
+        "unit": "mol/m3"
+    },
+    {
+        "unit_code_dec": 95,
+        "unit_code_hex": "5F",
+        "unit_name": "放射線量",
+        "unit": "uSv"
+    },
+    {
+        "unit_code_dec": 96,
+        "unit_code_hex": "60",
+        "unit_name": "人感センサ",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 97,
+        "unit_code_hex": "61",
+        "unit_name": "磁気センサ",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 98,
+        "unit_code_hex": "62",
+        "unit_name": "電流",
+        "unit": "mA"
+    },
+    {
+        "unit_code_dec": 99,
+        "unit_code_hex": "63",
+        "unit_name": "加速度実効値",
+        "unit": "m/s2"
+    },
+    {
+        "unit_code_dec": 100,
+        "unit_code_hex": "64",
+        "unit_name": "気圧",
+        "unit": "ｈPa"
+    },
+    {
+        "unit_code_dec": 101,
+        "unit_code_hex": "65",
+        "unit_name": "ADC出力",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 102,
+        "unit_code_hex": "66",
+        "unit_name": "尖度",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 103,
+        "unit_code_hex": "67",
+        "unit_name": NaN,
+        "unit": NaN
+    },
+    {
+        "unit_code_dec": 104,
+        "unit_code_hex": "68",
+        "unit_name": "単位なし",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 105,
+        "unit_code_hex": "69",
+        "unit_name": "電力",
+        "unit": "W"
+    },
+    {
+        "unit_code_dec": 106,
+        "unit_code_hex": "6A",
+        "unit_name": "流量",
+        "unit": "L/min"
+    },
+    {
+        "unit_code_dec": 107,
+        "unit_code_hex": "6B",
+        "unit_name": "体積",
+        "unit": "L"
+    },
+    {
+        "unit_code_dec": 108,
+        "unit_code_hex": "6C",
+        "unit_name": NaN,
+        "unit": NaN
+    },
+    {
+        "unit_code_dec": 109,
+        "unit_code_hex": "6D",
+        "unit_name": NaN,
+        "unit": NaN
+    },
+    {
+        "unit_code_dec": 110,
+        "unit_code_hex": "6E",
+        "unit_name": NaN,
+        "unit": NaN
+    },
+    {
+        "unit_code_dec": 111,
+        "unit_code_hex": "6F",
+        "unit_name": "角度",
+        "unit": "rad"
+    },
+    {
+        "unit_code_dec": 112,
+        "unit_code_hex": "70",
+        "unit_name": "速度",
+        "unit": "mm/s"
+    },
+    {
+        "unit_code_dec": 113,
+        "unit_code_hex": "71",
+        "unit_name": "変位",
+        "unit": "mm"
+    },
+    {
+        "unit_code_dec": 114,
+        "unit_code_hex": "72",
+        "unit_name": NaN,
+        "unit": NaN
+    },
+    {
+        "unit_code_dec": 115,
+        "unit_code_hex": "73",
+        "unit_name": "抵抗値",
+        "unit": "kΩ"
+    },
+    {
+        "unit_code_dec": 116,
+        "unit_code_hex": "74",
+        "unit_name": "レンジオーバー",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 117,
+        "unit_code_hex": "75",
+        "unit_name": "異常",
+        "unit": "-"
+    },
+    {
+        "unit_code_dec": 118,
+        "unit_code_hex": "76",
+        "unit_name": "-",
+        "unit": "-"
+    }
+]
